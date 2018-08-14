@@ -1,5 +1,5 @@
 /**
- * 使用雙迴圈，暴力法比對~~~
+ * 菴ｿ逕ｨ髮呵ｿｴ蝨茨ｼ梧垓蜉帶ｳ墓ｯ泌ｰ阪�
  */
 package twosum;
 public class Solution 
